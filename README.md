@@ -1,4 +1,6 @@
-# Projeto de Ingestão e Busca com IA
+# Desafio MBA Engenharia de Software com IA - Full Cycle
+
+## Projeto de Ingestão e Busca com IA
 
 Este projeto consiste em um sistema de ingestão de documentos PDF e uma interface de chat para realizar perguntas sobre o conteúdo dos documentos, utilizando modelos de linguagem (LLMs) e armazenamento vetorial.
 
